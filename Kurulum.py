@@ -1,4 +1,4 @@
-https://github.com/enesland/zafiyet
+git clone https://github.com/enesland/zafiyet
 
 cd zafiyet.py
 
